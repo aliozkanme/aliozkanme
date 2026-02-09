@@ -85,7 +85,7 @@ Simulation projects for Power Electronics circuits using MATLAB/Simulink.
 
 I possess comprehensive experience in embedded system design, having actively worked with 8051 Assembly, 8-bit PIC, and 32-bit TI C2000 series microcontrollers. My technical expertise also extends to ARM architectures (16/32-bit), allowing me to develop robust real-time firmware and control solutions across various hardware platforms.
 
-**To explore my simulations and control algorithms featured my repository:**
+**To explore my source codes featured my repository:**
 
 ### *:assembly:* [**Embedded System Assembly 8051 Projects**](https://github.com/aliozkanme/Embedded-System-Assembly-8051-Projects)
 
@@ -94,6 +94,26 @@ This repository contains firmware developments and embedded system applications 
 ### *:techstack:* Tools & Technologies
 
 <img src="https://img.shields.io/badge/Assembly-A91E22?style=for-the-badge&logo=assemblyscript&logoColor=white" /> <img src="https://img.shields.io/badge/Microchip_PIC-ED1C24?style=for-the-badge&logo=microchip&logoColor=white" /> <img src="https://img.shields.io/badge/Texas_Instruments-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white" /> <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+
+---
+
+### 🛠️ Mechanical Design & Industrial Modeling
+
+I am deeply interested in mechanical design and industrial product development. My work focuses on creating complex 3D parts (.sldprt) and assemblies, where I implement precise parametric modeling techniques for industrial applications. I extensively use SolidWorks to generate detailed technical drawings and render industrial concepts to bridge the gap between conceptual design and manufacturing ready products.
+
+**To explore my drawings featured my repository:**
+
+### *:solidworks:* [**SolidWorks Portfolio**](https://github.com/aliozkanme/SolidWorks-Portfolio)
+
+A visual showcase of mechanical design projects using SolidWorks. Demonstrating proficiency in 3D modeling, assembly design, and manufacturing outputs (DXF/Drawings).
+
+### *:techstack:* Tools & Technologies
+
+<img src="https://img.shields.io/badge/SolidWorks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+
+### *:demonstrations:* Project Showcases
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5J3ZJCot3cgJ5xVRml3CbFUohQKbgaPV)
 
 ---
 
