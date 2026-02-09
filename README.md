@@ -1,5 +1,6 @@
 <a href="https://komarev.com/ghpvc/?username=aliozkanme">
   <img align="right" src="https://komarev.com/ghpvc/?username=aliozkanme&label=ProfileViews&color=0e75b6&style=flat" alt="Profile visitor" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliozkanme&show_icons=true&theme=radical)
 </a>
 
 <br> </br>
@@ -9,7 +10,6 @@
   <img height="200" src="assets/Electromagnetic-Core-4.png" alt="Electromagnetic Core" style="margin-right: 10px;">
   <img height="200" src="assets/Motor-BLDC-Front-2.png" alt="Motor BLDC Front">
 </p>
-
 
 ## Hi there 👋
 
