@@ -109,11 +109,54 @@ A visual showcase of mechanical design projects using SolidWorks. Demonstrating 
 
 ### *:techstack:* Tools & Technologies
 
-<img src="https://img.shields.io/badge/SolidWorks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-007672?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Simulink-ED6B21?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/PSIM-0054A6?style=for-the-badge&logo=powersim&logoColor=white" /> <img src="https://img.shields.io/badge/PLECS-C62F2F?style=for-the-badge&logo=plexim&logoColor=white" /> 
 
 ### *:demonstrations:* Project Showcases
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5J3ZJCot3cgJ5xVRml3CbFUohQKbgaPV)
+
+---
+
+### 💻 Application Development & Utility Software
+
+I am deeply interested in software architecture and application ecosystems. My work focuses on developing versatile utility tools and mobile applications, where I implement automation workflows and optimize development processes. I extensively use Python and cross-platform frameworks to build robust solutions that bridge the gap between complex tasks and user productivity.
+
+**To explore my scripts featured my repository:**
+
+### *:utility-scripts-python:* [**Python Utility Scripts**](https://github.com/aliozkanme/Python-Utility-Scripts)
+
+A versatile collection of Python
+
+### *:techstack:* Tools & Technologies
+
+<img src="https://img.shields.io/badge/Scripting-24292e?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+
+### *:demonstrations:* Project Showcases
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aliozkanme)
+
+---
+
+### 🏭 Power Systems Analysis
+
+I am deeply interested in the computational analysis and stability of modern power grids. My research focuses on power system dynamics, where I implement numerical integration algorithms and theoretical methods like the Equal Area Criterion (EAC) to model transient behavior under fault conditions. I extensively use MATLAB and Python to perform high-fidelity time-domain simulations, bridging the gap between mathematical modeling and grid protection coordination.
+
+**To explore my simulations and control algorithms featured my repository:**
+
+### *:power-systems:* [**Power Systems Analysis with Computer Aided**](https://github.com/aliozkanme/Power-Systems-Analysis-with-Computer-Aided)
+
+A collection of computational projects and simulations focused on power system dynamics, stability, and control using Computer Aided
+
+### *:techstack:* Tools & Technologies
+
+<img src="https://img.shields.io/badge/MATLAB-007672?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+### *:techpaper:* Technical Research & Working Papers
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Read_Preprint-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/399759430_Analysis_of_Transient_Stability_in_Multi_Machine_Power_Systems_Using_Equal_Area_Criterion_and_Time_Domain_Simulations_Case_Study_of_a_Three_Generator_System)
+- **Topic:** *Transient Stability in Multi-Machine Power Systems*
+- **Methodology:** Equal Area Criterion (EAC) & Time-Domain Simulation
+- **Platform:** ResearchGate
 
 ---
 
