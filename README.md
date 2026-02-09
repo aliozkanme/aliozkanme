@@ -31,7 +31,7 @@ I am deeply interested in the electromagnetic design and optimization of advance
 
 ### *:electric-machine-design:* [**Electric Machine Design Projects**](https://github.com/aliozkanme/Electric-Machine-Design-Projects)
 
-Mechanical design, assembly, and thermal management of electric machines (PMSM, BLDC, SynRM) using SolidWorks.
+Mechanical design, assembly, and thermal management of electric machines (PMSM, BLDC, Axial-Flux, SynRM) using SolidWorks.
 
 ### *:techstack:* Tools & Technologies
 
