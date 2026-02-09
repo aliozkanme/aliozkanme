@@ -67,7 +67,7 @@ I am deeply interested in the design, modeling, and optimization of advanced pow
 
 **To explore my simulations and control algorithms featured my repository:**
 
-### *:power-electronics:* [**Matlab/Simulink Power Electronics Projects**](https://github.com/aliozkanme/Electric-Machine-Design-Projects)
+### *:power-electronics:* [**Matlab/Simulink Power Electronics Projects**](https://github.com/aliozkanme/Matlab-Simulink-Power-Electronics-Projects)
 
 Simulation projects for Power Electronics circuits using MATLAB/Simulink.
 
