@@ -42,6 +42,10 @@ Mechanical design, assembly, and thermal management of electric machines (PMSM, 
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5J3ZJCot3cgJ5xVRml3CbFUohQKbgaPV)
 
+### 👯 *Let’s Collaborate On*
+
+Designing high-efficiency electric motors and optimizing electromagnetic performance for next-generation applications.
+
 ---
 
 ### 🤖 Robotics & Autonomous Systems
@@ -126,6 +130,10 @@ A visual showcase of mechanical design projects using SolidWorks. Demonstrating 
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5J3ZJCot3cgJ5xVRml3CbFUohQKbgaPV)
 
+### 👯 *Let’s Collaborate On*
+
+Transforming conceptual sketches into precise 3D models and manufacturing-ready industrial designs.
+
 ---
 
 ### 💻 Application Development & Utility Software
@@ -145,6 +153,10 @@ A versatile collection of Python
 ### *:demonstrations:* Project Showcases
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aliozkanme)
+
+### 👯 *Let’s Collaborate On*
+
+Building robust automation tools and cross-platform applications to optimize user workflows.
 
 ---
 
