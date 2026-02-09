@@ -2,7 +2,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=aliozkanme&label=ProfileViews&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
----
 
 <p align="center">
   <img height="200" src="assets/Motor-BLDC-Back-2.png" alt="Motor BLDC Back" style="margin-right: 10px;">
