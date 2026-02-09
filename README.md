@@ -22,6 +22,27 @@ I’m a passionate Electrical Engineer with 8+ years of R&D experience in power 
 
 ---
 
+### ⚙️ Electric Machine Designs
+
+
+I am deeply interested in the electromagnetic design and optimization of advanced electric machines. My work focuses on Electric Machine R&D projects, where I implement high-efficiency motor topologies and develop advanced power electronics control strategies. I extensively use the Ansys Maxwell ecosystem for high-fidelity finite element analysis (FEA) to bridge the gap between electromagnetic theory and physical hardware performance.
+
+**To explore my simulations and drawings featured my repository:**
+
+### *:electric-machine-design:* [**Electric Machine Design Projects**](https://github.com/aliozkanme/Electric-Machine-Design-Projects)
+
+Mechanical design, assembly, and thermal management of electric machines (PMSM, BLDC, SynRM) using SolidWorks.
+
+### *:techstack:* Tools & Technologies
+
+<img src="https://img.shields.io/badge/Ansys_Maxwell-000000?style=for-the-badge&logo=ansys&logoColor=FFB400" /> <img src="https://img.shields.io/badge/SolidWorks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+
+### *:demonstrations:* Project Showcases
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5J3ZJCot3cgJ5xVRml3CbFUohQKbgaPV)
+
+---
+
 ### 🤖 Robotics & Autonomous Systems
 
 I am deeply interested in the design and development of advanced robotic systems. My work focuses on Robotics R&D projects, where I implement autonomous navigation algorithms and develop multithreaded control architectures. I extensively use the ROS/Gazebo ecosystem for high-fidelity simulations to bridge the gap between software and physical hardware.
