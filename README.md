@@ -10,20 +10,18 @@
   <img height="200" src="assets/Motor-BLDC-Front-2.png" alt="Motor BLDC Front">
 </p>
 
----
+
 ## Hello, I'm Ali Özkan (@aliozkanme) 👋
 Welcome to my GitHub profile! 
 
 I’m a passionate Electrical Engineer with 8+ years of R&D experience in power converter topologies and embedded control systems. My technical focus includes the electromagnetic design of electric motors, driver development, and TI 32-bit microcontroller applications. Currently pursuing M.Sc. studies specialized in Electric Motor and Drive systems, aiming to bridge practical industrial design with advanced theoretical modeling using MATLAB/Simulink and PSIM.
 
----
 
-## My Work Areas
+## My Work Areas - Let’s Collaborate On
 
 ---
 
 ### ⚙️ Electric Machine Designs
-
 
 I am deeply interested in the electromagnetic design and optimization of advanced electric machines. My work focuses on Electric Machine R&D projects, where I implement high-efficiency motor topologies and develop advanced power electronics control strategies. I extensively use the Ansys Maxwell ecosystem for high-fidelity finite element analysis (FEA) to bridge the gap between electromagnetic theory and physical hardware performance.
 
@@ -63,8 +61,44 @@ A collection of advanced robotics R&D projects, autonomous navigation algorithms
 
 ---
 
+### ⚡ Power Electronics
+
+I am deeply interested in the design, modeling, and optimization of advanced power electronic systems. My work focuses on Power Electronics R&D projects, where I implement high-efficiency converter topologies and develop advanced switching control strategies. I extensively use simulation environments to perform high-fidelity analysis to bridge the gap between power electronics theory and physical hardware performance.
+
+**To explore my simulations and control algorithms featured my repository:**
+
+### *:power-electronics:* [**Matlab/Simulink Power Electronics Projects**](https://github.com/aliozkanme/Electric-Machine-Design-Projects)
+
+Simulation projects for Power Electronics circuits using MATLAB/Simulink.
+
+### *:techstack:* Tools & Technologies
+
+<img src="https://img.shields.io/badge/MATLAB-007672?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Simulink-ED6B21?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/PSIM-0054A6?style=for-the-badge&logo=powersim&logoColor=white" /> <img src="https://img.shields.io/badge/PLECS-C62F2F?style=for-the-badge&logo=plexim&logoColor=white" /> 
+
+### *:demonstrations:* Project Showcases
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aliozkanme)
+
+---
+
+### 💻 Embedded Systems
+
+I possess comprehensive experience in embedded system design, having actively worked with 8051 Assembly, 8-bit PIC, and 32-bit TI C2000 series microcontrollers. My technical expertise also extends to ARM architectures (16/32-bit), allowing me to develop robust real-time firmware and control solutions across various hardware platforms.
+
+**To explore my simulations and control algorithms featured my repository:**
+
+### *:assembly:* [**Embedded System Assembly 8051 Projects**](https://github.com/aliozkanme/Embedded-System-Assembly-8051-Projects)
+
+This repository contains firmware developments and embedded system applications created that using the 8051 Instruction Set and Assembly language, primarily focused on Analog Devices ADuC841 microcontroller (MCUs) via Keil µVision.
+
+### *:techstack:* Tools & Technologies
+
+<img src="https://img.shields.io/badge/Assembly-A91E22?style=for-the-badge&logo=assemblyscript&logoColor=white" /> <img src="https://img.shields.io/badge/Microchip_PIC-ED1C24?style=for-the-badge&logo=microchip&logoColor=white" /> <img src="https://img.shields.io/badge/Texas_Instruments-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white" /> <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+
+---
+
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINKINIZ) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUTUBE_LINKINIZ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINKINIZ) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aliozkanme)
 
 ---
 
