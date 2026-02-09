@@ -1,3 +1,7 @@
+<a href="https://komarev.com/ghpvc/?username=aliozkanme">
+  <img align="right" src="https://komarev.com/ghpvc/?username=aliozkanme&label=ProfileViews&color=0e75b6&style=flat" alt="Profile visitor" />
+</a> 
+
 ## Hi there 👋
 
 <!--
