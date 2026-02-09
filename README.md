@@ -267,6 +267,13 @@ Innovative ideas for developing STEAM lesson Tools.
 
 ---
 
+## ✨ My Contributions
+
+- **GitHub Tutorials:** Extensive tutorials on Electric Machine Design, Robotics and more.
+- **YouTube & Blogs:** Project showcases and educational content on various technical subjects.
+- **STEAM Education:** Mentoring university teams through the lifecycle of R&D projects to bridge the gap between theoretical coursework and success in national engineering competitions.
+- **Researcher:** Conducting interdisciplinary R&D across power electronics, robotics, and artificial intelligence to bridge the gap between advanced theoretical models and practical industrial applications.
+
 ## 💬 Feel Free to Ask Me About
 
 - **Power Electronics, Electric Machines, Robotics, AI, and Embedded Systems:** I’m here to offer insights and knowledge on these exciting topics.
