@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=aliozkanme&label=ProfileViews&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliozkanme&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliozkanme&show_icons=true&theme=radical) 
 
 <br> </br>
 
