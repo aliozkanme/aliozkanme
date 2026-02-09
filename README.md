@@ -259,8 +259,6 @@ Innovative ideas for developing STEAM lesson Tools.
 
 - **Power Electronics, Electric Machines, Robotics, AI, and Embedded Systems:** I’m here to offer insights and knowledge on these exciting topics.
 
----
-
 ## 📫 How to Reach Me
 
 <a href="mailto:contact@aliozkan.me">
@@ -280,7 +278,7 @@ Innovative ideas for developing STEAM lesson Tools.
 </a>
 <a href="https://github.com/aliozkanme?tab=repositories" target="_blank"><img alt="All Repositories" title="All Github Repositories" src="https://img.shields.io/badge/-All%20Github%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 
----
+<br> </br>
 
 <div align="center">
   <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
