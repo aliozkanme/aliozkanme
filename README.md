@@ -20,6 +20,27 @@ I’m a passionate Electrical Engineer with 8+ years of R&D experience in power 
 
 **M.Sc. Student | Researcher @University | Student [@NSA](https://nsa.marmara.edu.tr/enstitu/veri-analizi-okulu)**
 
+###  *How to Reach Me:*
+
+<a href="mailto:contact@aliozkan.me">
+  <img src="https://img.shields.io/badge/Contact-013243?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aliozkkan">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.researchgate.net/profile/Ali_Oezkan9">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+</a>
+<a href="https://x.com/aliozkanme">
+  <img src="https://img.shields.io/badge/-2E86C1?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@aliozkanme">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://github.com/aliozkanme?tab=repositories" target="_blank"><img alt="All Repositories" title="All Github Repositories" src="https://img.shields.io/badge/-All%20Github%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+
+<br>
+
 ## My Work Areas
 
 ---
@@ -278,26 +299,16 @@ Innovative ideas for developing STEAM lesson Tools.
 
 - **Power Electronics, Electric Machines, Robotics, AI, and Embedded Systems:** I’m here to offer insights and knowledge on these exciting topics.
 
-## 📫 How to Reach Me
+## 🤝 Let’s Collaborate!
 
-<a href="mailto:contact@aliozkan.me">
-  <img src="https://img.shields.io/badge/Contact-013243?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/aliozkkan">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.researchgate.net/profile/Ali_Oezkan9">
-  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
-</a>
-<a href="https://x.com/aliozkanme">
-  <img src="https://img.shields.io/badge/-2E86C1?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@aliozkanme">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://github.com/aliozkanme?tab=repositories" target="_blank"><img alt="All Repositories" title="All Github Repositories" src="https://img.shields.io/badge/-All%20Github%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+I am open to collaboration on innovative projects that push the boundaries of engineering. Feel free to reach out if you want to discuss:
 
-<br> </br>
+* **Next-Gen Electric Motors:** Designing high-efficiency electromagnetic topologies.
+* **Robotics:** Building autonomous systems and navigation algorithms.
+* **Automation Tools:** Developing Python scripts and cross-platform applications.
+* **STEAM Education:** Creating learning tools for future engineers.
+
+<br>
 
 <div align="center">
   <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
