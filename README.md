@@ -14,7 +14,7 @@
 ## Hello, I'm Ali Özkan (@aliozkanme) 👋
 Welcome to my GitHub profile! 
 
-I’m a passionate Electrical Engineer with 8+ years of R&D experience in power converter topologies and embedded control systems. My technical focus includes the electromagnetic design of electric motors, driver development, and TI 32-bit microcontroller applications. Currently pursuing M.Sc. studies specialized in Electric Motor and Drive systems, aiming to bridge practical industrial design with advanced theoretical modeling using MATLAB/Simulink and PSIM.
+I’m a passionate Electrical Engineer with 7+ years of R&D experience in power converter topologies and embedded control systems. My technical focus includes the electromagnetic design of electric motors, driver development, and TI 32-bit microcontroller applications. Currently pursuing M.Sc. studies specialized in Electric Motor and Drive systems, aiming to bridge practical industrial design with advanced theoretical modeling using MATLAB/Simulink and PSIM.
 
 ###  *My Attachments:*
 
