@@ -63,10 +63,6 @@ Mechanical design, assembly, and thermal management of electric machines (PMSM, 
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5J3ZJCot3cgJ5xVRml3CbFUohQKbgaPV)
 
-### 👯 *Let’s Collaborate On*
-
-Designing high-efficiency electric motors and optimizing electromagnetic performance for next-generation applications.
-
 ---
 
 ### 🤖 Robotics & Autonomous Systems
@@ -86,10 +82,6 @@ A collection of advanced robotics R&D projects, autonomous navigation algorithms
 ### *:demonstrations:* Project Showcases
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5J3ZJCot3chjmmVgiM9fkvoenSkw-RDE)
-
-### 👯 *Let’s Collaborate On*
-
-Building innovative robots and systems, leveraging my expertise in automation and robotics.
 
 ---
 
@@ -127,10 +119,6 @@ This repository contains firmware developments and embedded system applications 
 
 <img src="https://img.shields.io/badge/Assembly-A91E22?style=for-the-badge&logo=assemblyscript&logoColor=white" /> <img src="https://img.shields.io/badge/C99 Standart-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />  <img src="https://img.shields.io/badge/Microchip_PIC-ED1C24?style=for-the-badge&logo=microchip&logoColor=white" /> <img src="https://img.shields.io/badge/Texas_Instruments-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white" /> <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
-### 👯 *Let’s Collaborate On*
-
-Developing customized solutions for diverse applications, from industrial to consumer electronics.
-
 ---
 
 ### 🛠️ Mechanical Design & Industrial Modeling
@@ -151,10 +139,6 @@ A visual showcase of mechanical design projects using SolidWorks. Demonstrating 
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5J3ZJCot3cgJ5xVRml3CbFUohQKbgaPV)
 
-### 👯 *Let’s Collaborate On*
-
-Transforming conceptual sketches into precise 3D models and manufacturing-ready industrial designs.
-
 ---
 
 ### 💻 Application Development & Utility Software
@@ -174,10 +158,6 @@ A versatile collection of Python
 ### *:demonstrations:* Project Showcases
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aliozkanme)
-
-### 👯 *Let’s Collaborate On*
-
-Building robust automation tools and cross-platform applications to optimize user workflows.
 
 ---
 
@@ -281,10 +261,6 @@ Having built my technical foundation through Electric Vehicle and UAV competitio
 **To explore my works featured my repository:**
 
 --
-
-### 👯 *Let’s Collaborate On*
-
-Innovative ideas for developing STEAM lesson Tools.
 
 ---
 
