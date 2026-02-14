@@ -25,7 +25,7 @@ I’m a passionate Electrical Engineer with 7+ years of R&D experience in power 
 <a href="mailto:contact@aliozkan.me">
   <img src="https://img.shields.io/badge/Contact-013243?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/aliozkkan">
+<a href="https://www.linkedin.com/in/aliozkanme/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.researchgate.net/profile/Ali_Oezkan9">
