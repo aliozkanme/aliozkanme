@@ -4,15 +4,13 @@
 
 <br> </br>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img height="200" src="assets/Motor-BLDC-Back-2.png" alt="Motor BLDC Back"></td>
-      <td><img height="200" src="assets/Electromagnetic-Core-4.png" alt="Electromagnetic Core"></td>
-      <td><img height="200" src="assets/Motor-BLDC-Front-2.png" alt="Motor BLDC Front"></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img height="200" src="assets/Motor-BLDC-Back-2.png" alt="Motor BLDC Back">
+  &nbsp;&nbsp;
+  <img height="200" src="assets/Electromagnetic-Core-4.png" alt="Electromagnetic Core">
+  &nbsp;&nbsp;
+  <img height="200" src="assets/Motor-BLDC-Front-2.png" alt="Motor BLDC Front">
+</p>
 
 
 
