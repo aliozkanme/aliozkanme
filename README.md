@@ -25,6 +25,7 @@ I’m a passionate Electrical Engineer with 7+ years of R&D experience in power 
 
 ###  *How to Reach Me:*
 
+<p align="left">
 <a href="mailto:contact@aliozkan.me">
   <img src="https://img.shields.io/badge/Contact-013243?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -40,7 +41,9 @@ I’m a passionate Electrical Engineer with 7+ years of R&D experience in power 
 <a href="https://www.youtube.com/@aliozkanme">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://github.com/aliozkanme?tab=repositories" target="_blank"><img alt="All Repositories" title="All Github Repositories" src="https://img.shields.io/badge/-All%20Github%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<a href="https://github.com/aliozkanme?tab=repositories" target="_blank"><img alt="All Repositories" title="All Github Repositories" src="https://img.shields.io/badge/-All%20Github%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
+</a>
+</p>
 
 <br>
 
