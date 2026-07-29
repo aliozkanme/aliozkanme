@@ -4,11 +4,7 @@
 
 <br> </br>
 
-<p align="center">
-  <img height="200" src="assets/Motor-BLDC-Back-2.png" alt="Motor BLDC Back" style="margin-right: 10px;">
-  <img height="200" src="assets/Electromagnetic-Core-4.png" alt="Electromagnetic Core" style="margin-right: 10px;">
-  <img height="200" src="assets/Motor-BLDC-Front-2.png" alt="Motor BLDC Front">
-</p>
+<p align="center"><img height="200" src="assets/Motor-BLDC-Back-2.png" alt="Motor BLDC Back" style="margin-right: 10px;"><img height="200" src="assets/Electromagnetic-Core-4.png" alt="Electromagnetic Core" style="margin-right: 10px;"><img height="200" src="assets/Motor-BLDC-Front-2.png" alt="Motor BLDC Front"></p>
 
 
 ## Hello, I'm Ali Özkan (@aliozkanme) 👋
