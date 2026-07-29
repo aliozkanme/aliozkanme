@@ -25,25 +25,12 @@ I’m a passionate Electrical Engineer with 7+ years of R&D experience in power 
 
 ###  *How to Reach Me:*
 
-<p align="left">
-<a href="mailto:contact@aliozkan.me">
-  <img src="https://img.shields.io/badge/Contact-013243?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/aliozkanme/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.researchgate.net/profile/Ali_Oezkan9">
-  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
-</a>
-<a href="https://x.com/aliozkanme">
-  <img src="https://img.shields.io/badge/-2E86C1?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@aliozkanme">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://github.com/aliozkanme?tab=repositories" target="_blank"><img alt="All Repositories" title="All Github Repositories" src="https://img.shields.io/badge/-All%20Github%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
-</a>
-</p>
+[![Contact](https://img.shields.io/badge/Contact-013243?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@aliozkan.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliozkanme/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ali_Oezkan9)
+[![X](https://img.shields.io/badge/-2E86C1?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aliozkanme)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aliozkanme)
+[![All Repositories](https://img.shields.io/badge/-All%20Github%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white)](https://github.com/aliozkanme?tab=repositories)
 
 <br>
 
